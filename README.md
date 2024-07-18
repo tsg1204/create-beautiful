@@ -1,2 +1,1 @@
-coming soon
-coming soon
+Creating responsive layouts for the website
