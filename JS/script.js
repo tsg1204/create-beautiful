@@ -52,7 +52,6 @@ xButton.addEventListener('click', () => {
   mainVideo.pause()
 })
 
-
 //controls
 const hideControls = () => {
   if (mainVideo.paused) return
