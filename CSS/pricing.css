@@ -141,6 +141,7 @@ body::-webkit-scrollbar-thumb {
 .pricing-card-left .pricing-card-top h3 {
   background: linear-gradient(to right, #44a1fd, #0b3fa8 90%);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 
@@ -148,6 +149,7 @@ body::-webkit-scrollbar-thumb {
 .pricing-card-right .pricing-card-top h3 {
   background: linear-gradient(to right, #ca6eff, #7118d6 90%);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 
